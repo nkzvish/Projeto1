@@ -14,3 +14,4 @@ function toggleMode() {
   img.setAttribute("src", "./assets/avatar.png")
   }
 }
+.
